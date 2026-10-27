@@ -3,7 +3,12 @@
 
 @import "minima";
 
-body {
-  color: #ddd !important;
-  background: #111 !important;
+html body {
+  color: #ddd;
+  background: #111;
+}
+
+h1 {
+  padding: 50px 0 25px;
+  margin: 0;
 }
