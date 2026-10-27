@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Press Kit
 ---
 
 # About the game
