@@ -52,6 +52,16 @@ Simplified logo (without shadow)
 
 ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple - No Shadow.png' | relative_url }})
 
+## Key art
+
+Default key art
+
+![Key art for Decimate Drive 2]({{ '/assets/images/Key Art.png' | relative_url }})
+
+Alternative key art
+
+![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.png' | relative_url }})
+
 ---
 
 # About Some Random Designing
