@@ -11,6 +11,8 @@ Welcome to Red Mist Pines. An All-American mountain town caught in a crippling s
 
 Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
 
+## Trailer
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## About the franchise
@@ -61,6 +63,10 @@ Alternative key art
 
 ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.png' | relative_url }})
 
+## Screenshots
+
+...
+
 # About Some Random Designing
 
 Some Random Designing is a Dutch solo indie developer behind the frantic Decimate Drive and the relaxing Babbling Brook:
@@ -85,13 +91,15 @@ Social
 
 Free releases
 
-- Road to Glory (2020)
-- Disposition (2022)
+- Road to Glory ([Itch.io](https://somerandomdesigning.itch.io/road-to-glory), 2020)
+- Disposition ([Itch.io](https://somerandomdesigning.itch.io/disposition), 2022)
 
 Commercial releases
 
-- Decimate Drive (2024)
-- Babbling Brook (2025)
-- Decimate Drive 2 (TBD)
+- Decimate Drive ([Steam](https://store.steampowered.com/app/2427950/Decimate_Drive/), 2024)
+- Babbling Brook ([Steam](https://store.steampowered.com/app/3672300/Babbling_Brook/), 2025)
+- Decimate Drive 2 ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/), Planned for 2027)
+
+© Some Random Designing
 
 
