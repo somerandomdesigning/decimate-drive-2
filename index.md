@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Press Kit
 ---
 
 # About the game
@@ -12,8 +11,6 @@ Welcome to Red Mist Pines. An All-American mountain town caught in a crippling s
 Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 
 ## About the franchise
 
@@ -29,12 +26,11 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 
 ## Links
 
-[Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/)
-[Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
+- [Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/)
+- [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
+- [YouTube](https://www.youtube.com/@DecimateDriveGame)
 
-[YouTube](https://www.youtube.com/@DecimateDriveGame)
-
-
+---
 
 # Assets
 
@@ -56,7 +52,7 @@ Simplified logo (without shadow)
 
 ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple - No Shadow.png' | relative_url }})
 
-
+---
 
 # About Some Random Designing
 
@@ -66,17 +62,17 @@ Some Random Designing is a Dutch solo indie developer behind the frantic Decimat
 
 ## Where to find me
 
-Steam & Itch.io
+Platforms
 
-[Itch.io](https://somerandomdesigning.itch.io/)
-[Steam](https://store.steampowered.com/developer/somerandomdesigning)
+- [Itch.io](https://somerandomdesigning.itch.io/)
+- [Steam](https://store.steampowered.com/developer/somerandomdesigning)
 
 Social
 
-[Bluesky](https://bsky.app/profile/srd-ramon.bsky.social)
-[Discord](https://discord.gg/jqwHrgZYny)
-[Twitch](https://www.twitch.tv/somerandomdesigning)
-[Artstation](https://www.artstation.com/ramonvantloo)
+- [Bluesky](https://bsky.app/profile/srd-ramon.bsky.social)
+- [Discord](https://discord.gg/jqwHrgZYny)
+- [Twitch](https://www.twitch.tv/somerandomdesigning)
+- [Artstation](https://www.artstation.com/ramonvantloo)
 
 ## Games I created
 
