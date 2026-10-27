@@ -2,6 +2,7 @@
 ---
 
 html body {
+  font-size: 14px;
   font-family: "Overpass", sans-serif;
   color: #ddd;
   background: #111;
@@ -28,16 +29,20 @@ h1, h2, h3 {
 }
 
 h1 {
+  font-size: 24px;
   font-family: "Cinzel Decorative", sans-serif;
   text-transform: lowercase;
   padding: 75px 0 25px;
 }
 
 h2 {
+  font-size: 18px;
+  letter-spacing: 2px;
   padding: 50px 0 25px;
 }
 
 h3 {
+  letter-spacing: 2px;
   padding: 25px 0 10px;
 }
 
