@@ -2,8 +2,22 @@
 ---
 
 html body {
+  font-family: "Overpass", sans-serif;
   color: #ddd;
   background: #111;
+}
+
+main {
+  width: 75%;
+}
+
+img {
+  width: 50%;
+  border: 1px dashed #222;
+}
+
+hr {
+  color: #ddd;
 }
 
 h1 {
