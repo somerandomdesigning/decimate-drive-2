@@ -83,12 +83,12 @@ Social
 
 ## Games I created
 
-### Free releases
+Free releases
 
 - Road to Glory (2020)
 - Disposition (2022)
 
-### Commercial releases
+Commercial releases
 
 - Decimate Drive (2024)
 - Babbling Brook (2025)
