@@ -31,9 +31,7 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 - [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
 - [YouTube](https://www.youtube.com/@DecimateDriveGame)
 
----
-
-# Assets
+# Branding & Assets
 
 ## Logo
 
@@ -62,8 +60,6 @@ Default key art
 Alternative key art
 
 ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.png' | relative_url }})
-
----
 
 # About Some Random Designing
 
