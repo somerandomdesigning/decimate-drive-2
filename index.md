@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Press Kit
+title: Decimate Drive / Press Kit
 ---
 
-# About the game
+# Decimate Drive 2 / Press Kit
 
 *It's you versus a pack of fast and clever killer cars*
 
