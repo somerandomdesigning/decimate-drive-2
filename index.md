@@ -65,16 +65,16 @@ Alternative key art
 
 ## Screenshots
 
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flatbed.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Junkyard.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Pack.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Red Mist Pines.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Scoopy.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Sport.png' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flatbed.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Junkyard.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Pack.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Red Mist Pines.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Scoopy.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Sport.jpg' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.jpg' | relative_url }})
 
 # About Some Random Designing
 
