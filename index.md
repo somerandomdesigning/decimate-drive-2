@@ -15,6 +15,12 @@ Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Links
+
+- [Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/)
+- [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
+- [YouTube Channel](https://www.youtube.com/@DecimateDriveGame)
+
 ## About the franchise
 
 Decimate Drive is inspired by classic killer car horror movies such as Duel (1971) and Christine (1983). By pitting players against killer cars, the game delivers hectic unscripted action without ever compromising on its dark atmospheric horror setting.
@@ -26,12 +32,6 @@ The original was released in early 2024 and received a very positive rating from
 Decimate Drive 2 is currently in early development, with a release planned for Q4 2027. A public playtest is planned for Q1 2027, so that players can try the game early and help improve it.
 
 ![Roadmap of Decimate Drive 2]({{ '/assets/images/Roadmap.png' | relative_url }})
-
-## Links
-
-- [Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/)
-- [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
-- [YouTube](https://www.youtube.com/@DecimateDriveGame)
 
 # Branding & Assets
 
@@ -65,7 +65,16 @@ Alternative key art
 
 ## Screenshots
 
-...
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flatbed.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Junkyard.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Pack.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Red Mist Pines.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Scoopy.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Sport.png' | relative_url }})
+![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.png' | relative_url }})
 
 # About Some Random Designing
 
