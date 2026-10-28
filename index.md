@@ -57,8 +57,9 @@ Simplified logo (with & without shadow)
 
 ## Screenshots
 
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.jpg' | relative_url }})
-![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.jpg' | relative_url }})
+|---|---|
+| ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.jpg' | relative_url }}) |
+
 ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.jpg' | relative_url }})
 ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flatbed.jpg' | relative_url }})
 ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Junkyard.jpg' | relative_url }})
