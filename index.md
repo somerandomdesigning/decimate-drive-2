@@ -17,9 +17,7 @@ Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger l
 
 ## Links
 
-- [Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/)
-- [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2)
-- [YouTube Channel](https://www.youtube.com/@DecimateDriveGame)
+[Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/) • [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2) • [YouTube Channel](https://www.youtube.com/@DecimateDriveGame)
 
 ## About the franchise
 
@@ -79,15 +77,11 @@ Some Random Designing is a Dutch solo indie developer behind the frantic Decimat
 
 Platforms
 
-- [Itch.io](https://somerandomdesigning.itch.io/)
-- [Steam](https://store.steampowered.com/developer/somerandomdesigning)
+[Itch.io](https://somerandomdesigning.itch.io/) • [Steam](https://store.steampowered.com/developer/somerandomdesigning)
 
 Social
 
-- [Bluesky](https://bsky.app/profile/srd-ramon.bsky.social)
-- [Discord](https://discord.gg/jqwHrgZYny)
-- [Twitch](https://www.twitch.tv/somerandomdesigning)
-- [Artstation](https://www.artstation.com/ramonvantloo)
+[Bluesky](https://bsky.app/profile/srd-ramon.bsky.social) • [Discord](https://discord.gg/jqwHrgZYny) • [Twitch](https://www.twitch.tv/somerandomdesigning) • [Artstation](https://www.artstation.com/ramonvantloo)
 
 ## Games I created
 
