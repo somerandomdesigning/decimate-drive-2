@@ -13,7 +13,7 @@ Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger l
 
 ## Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Links
 
@@ -52,7 +52,7 @@ Simplified logo (with & without shadow)
 ## Key art
 
 |---|---|
-| ![Key art for Decimate Drive 2]({{ '/assets/images/Key Art.png' | relative_url }}) ` File type: PNG / Resolution: 4096 x 1543 ` | ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.png' | relative_url }}) ` File type: PNG / Resolution: 1920 x 1075 ` |
+| ![Key art for Decimate Drive 2]({{ '/assets/images/Key Art.jpg' | relative_url }}) ` File type: JPG / Resolution: 5734 x 2160 ` | ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.jpg' | relative_url }}) ` File type: JPG / Resolution: 3858 x 2160 ` |
 
 ## Screenshots
 
