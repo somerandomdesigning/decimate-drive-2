@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decimate Drive / Press Kit
+title: Decimate Drive | Press Kit
 ---
 
 # Decimate Drive 2 / Press Kit
@@ -8,11 +8,12 @@ title: Decimate Drive / Press Kit
 ## Fact sheet
 
 - Genre: Horror, Indie
-- Platform: PC
-- Planned release date: Q4 2027
-- Player: Single player
+- Theme: Killer cars
+- Platform: PC (Steam)
+- Release date: Q4 2027
+- Players: Single-player
 - Developer: Some Random Designing
-- Publisher: Some Random Designing
+- Publisher: Some Random Designing (self-published)
 - Engine: Unity
 
 ## Trailer
