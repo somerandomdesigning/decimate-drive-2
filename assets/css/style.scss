@@ -16,8 +16,12 @@ main {
 }
 
 img {
-  width: 100%;
+  width: 50%;
   border: 1px dashed #222;
+}
+
+td img {
+  width: 100%;
 }
 
 hr {
