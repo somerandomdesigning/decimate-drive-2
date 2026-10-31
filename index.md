@@ -89,13 +89,11 @@ Simplified logo (with & without shadow)
 
 ## Screenshots
 
-`File type: JPG / Resolution: 3840 x 2160`
-
 |---|---|---|
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.jpg' | relative_url }}) |
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flatbed.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Junkyard.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Pack.jpg' | relative_url }}) |
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Red Mist Pines.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Scoopy.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Sport.jpg' | relative_url }}) |
-| | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.jpg' | relative_url }}) | |
+| | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.jpg' | relative_url }}) `File type: JPG / Resolution: 3840 x 2160` | |
 
 # About Some Random Designing
 
