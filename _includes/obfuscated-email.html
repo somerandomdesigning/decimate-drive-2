@@ -1,22 +1,11 @@
-<span class="email-address">
-  <span id="email-display">Loading email...</span>
-  <noscript>Email available with JavaScript enabled.</noscript>
-</span>
+<a id="obfuscated-email">Email</a>
 
 <script>
 (function() {
-  const parts = [
-    "contact",
-    "somerandomdesigning",
-    "com"
-  ];
+  const email = ["contact", "somerandomdesigning.com"].join("@");
+  const link = document.getElementById("obfuscated-email");
 
-  const email = parts[0] + "@" + parts[1] + "." + parts[2];
-
-  const link = document.createElement("a");
   link.href = "mailto:" + email;
   link.textContent = email;
-
-  document.getElementById("email-display").replaceWith(link);
 })();
 </script>
