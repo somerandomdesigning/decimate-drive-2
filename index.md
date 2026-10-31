@@ -37,14 +37,14 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 
 Default logo (with & without shadow)
 
-` File type: PNG `
+`File type: PNG`
 
 |---|---|
 | ![Default logo of Decimate Drive 2]({{ '/assets/images/Logo - Default.png' | relative_url }}) | ![Default logo of Decimate Drive 2 without shadow]({{ '/assets/images/Logo - Default - No Shadow.png' | relative_url }}) |
 
 Simplified logo (with & without shadow)
 
-` File type: PNG `
+`File type: PNG`
 
 |---|---|
 | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple.png' | relative_url }}) | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple - No Shadow.png' | relative_url }}) |
@@ -52,11 +52,11 @@ Simplified logo (with & without shadow)
 ## Key art
 
 |---|---|
-| ![Key art for Decimate Drive 2]({{ '/assets/images/Key Art.jpg' | relative_url }}) ` File type: JPG / Resolution: 5734 x 2160 ` | ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.jpg' | relative_url }}) ` File type: JPG / Resolution: 3858 x 2160 ` |
+| ![Key art for Decimate Drive 2]({{ '/assets/images/Key Art.jpg' | relative_url }}) `File type: JPG / Resolution: 5734 x 2160` | ![Alternative key art for Decimate Drive 2]({{ '/assets/images/Key Art - Alternative.jpg' | relative_url }}) `File type: JPG / Resolution: 3858 x 2160` |
 
 ## Screenshots
 
-` File type: JPG / Resolution: 3840 x 2160 `
+`File type: JPG / Resolution: 3840 x 2160`
 
 |---|---|---|
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Burning.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Deer.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Flashlight.jpg' | relative_url }}) |
