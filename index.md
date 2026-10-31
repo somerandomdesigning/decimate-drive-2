@@ -13,7 +13,17 @@ Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger l
 
 ## Trailer
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Fact sheet
+
+- Genre: Horror, Indie
+- Platform: PC
+- Planned release date: Q4 2027
+- Player: Single player
+- Developer: Some Random Designing
+- Publisher: Some Random Designing
+- Engine: Unity
 
 ## Links
 
@@ -66,7 +76,7 @@ Simplified logo (with & without shadow)
 
 # About Some Random Designing
 
-Some Random Designing is a Dutch solo indie developer behind the frantic Decimate Drive and the relaxing Babbling Brook:
+Decimate Drive 2 is developed by Some Random Designing and self-published. Some Random Designing is a Dutch solo indie developer behind the frantic Decimate Drive and the relaxing Babbling Brook:
 
 > *“I enjoy taking somewhat unusual or random ideas and turning them into fully fledged games. After creating a fun cozy game around water physics I’m excited to switch back to the polar opposite with a sequel to Decimate Drive. With fresh ideas and loads of player feedback, I can’t wait to see where we can take this random idea next.”*
 
