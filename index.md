@@ -5,16 +5,6 @@ title: Decimate Drive / Press Kit
 
 # Decimate Drive 2 / Press Kit
 
-*It's you versus a pack of fast and clever killer cars*
-
-Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Supercars charge at breakneck speed, unmarked vans lurk in the shadows and heavy-duty trucks stop at nothing to hunt you down. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.
-
-Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
-
-## Trailer
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Fact sheet
 
 - Genre: Horror, Indie
@@ -24,6 +14,40 @@ Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger l
 - Developer: Some Random Designing
 - Publisher: Some Random Designing
 - Engine: Unity
+
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzJEQiTGPZ8?si=fqbx249M-OkZsRYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Short description
+
+> *It's you versus a pack of fast and clever killer cars*
+
+> Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Supercars charge at breakneck speed, unmarked vans lurk in the shadows and heavy-duty trucks stop at nothing to hunt you down. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.
+
+> Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
+
+## Long description
+
+> *Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.*
+
+> Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
+
+> Hunted by Killer Cars
+
+> - It's you versus a pack of fast and clever killing machines.
+> - Never let your guard down. Run from cover to cover and don't let the enemy cut you off.
+> - Every vehicle hunts differently. Some pursue with precision, others stalk from the shadows, while heavy-duty machines plough through anything in their way.
+> - Use the town to your advantage. Dash through narrow alleys, climb onto rooftops and open up shortcuts.
+> - Force the enemy into the open. Restore power, activate generators and use flares to light up the streets.
+
+> Features
+
+> - Story-mode: Stay & fight or do whatever it takes to escape.
+> - Arcade-modes: Survive endless waves of killer cars in multiple challenges.
+> - Variety of killing machines: Including fast supercars, silent imports, eerie ice cream trucks & hazardous logging trucks.
+> - Semi-open world: Explore the snow-covered streets of Red Mist Pines.
+> - New game plus & collectibles: Replay the story mode and find all hidden collectibles.
 
 ## Links
 
