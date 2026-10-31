@@ -70,6 +70,10 @@ Some Random Designing is a Dutch solo indie developer behind the frantic Decimat
 
 > *“I enjoy taking somewhat unusual or random ideas and turning them into fully fledged games. After creating a fun cozy game around water physics I’m excited to switch back to the polar opposite with a sequel to Decimate Drive. With fresh ideas and loads of player feedback, I can’t wait to see where we can take this random idea next.”*
 
+## How to reach me
+
+{% include obfuscated-email.html %}
+
 ## Where to find me
 
 Platforms
