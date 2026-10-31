@@ -37,8 +37,6 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 
 Default logo (with & without shadow)
 
-`File type: PNG`
-
 |---|---|
 | ![Default logo of Decimate Drive 2]({{ '/assets/images/Logo - Default.png' | relative_url }}) | ![Default logo of Decimate Drive 2 without shadow]({{ '/assets/images/Logo - Default - No Shadow.png' | relative_url }}) |
 
@@ -48,6 +46,8 @@ Simplified logo (with & without shadow)
 
 |---|---|
 | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple.png' | relative_url }}) | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple - No Shadow.png' | relative_url }}) |
+
+`File type: PNG`
 
 ## Key art
 
