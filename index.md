@@ -25,8 +25,6 @@ title: Decimate Drive / Press Kit
 
 > Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Supercars charge at breakneck speed, unmarked vans lurk in the shadows and heavy-duty trucks stop at nothing to hunt you down. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.
 
-> Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
-
 ## Long description
 
 > *Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.*
@@ -74,9 +72,9 @@ Default logo (with & without shadow)
 |---|---|
 | ![Default logo of Decimate Drive 2]({{ '/assets/images/Logo - Default.png' | relative_url }}) | ![Default logo of Decimate Drive 2 without shadow]({{ '/assets/images/Logo - Default - No Shadow.png' | relative_url }}) |
 
-Simplified logo (with & without shadow)
-
 `File type: PNG`
+
+Simplified logo (with & without shadow)
 
 |---|---|
 | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple.png' | relative_url }}) | ![Simplified logo of Decimate Drive 2]({{ '/assets/images/Logo - Simple - No Shadow.png' | relative_url }}) |
