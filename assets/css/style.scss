@@ -12,6 +12,7 @@ html body {
 main {
   max-width: 1680px;
   padding: 75px 10%;
+  margin: 0 auto;
 }
 
 img {
@@ -45,6 +46,10 @@ p {
   color: #bbb;
   padding: 10px 0 10px;
   margin: 0;
+}
+
+li {
+  color: #bbb
 }
 
 a, a:visited {
