@@ -9,12 +9,12 @@ title: Decimate Drive | Press Kit
 
 - Genre: Horror, Indie
 - Theme: Killer cars
-- Platform: PC (Steam)
+- Platform: PC ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/))
 - Release date: Q4 2027
 - Players: Single-player
 - Developer: Some Random Designing
 - Publisher: Some Random Designing (self-published)
-- Engine: Unity
+- Contact: {% include obfuscated-email.html %}
 
 ## Trailer
 
@@ -113,7 +113,7 @@ Platforms
 
 Social
 
-[Bluesky](https://bsky.app/profile/srd-ramon.bsky.social) • [Discord](https://discord.gg/jqwHrgZYny) • [Twitch](https://www.twitch.tv/somerandomdesigning) • [Artstation](https://www.artstation.com/ramonvantloo)
+[Bluesky](https://bsky.app/profile/srd-ramon.bsky.social) • [Discord](https://discord.gg/jqwHrgZYny) • [YouTube Channel](https://www.youtube.com/@DecimateDriveGame) • [Twitch](https://www.twitch.tv/somerandomdesigning) • [Artstation](https://www.artstation.com/ramonvantloo)
 
 ## Games I created
 
@@ -131,5 +131,3 @@ Commercial releases
 ---
 
 © Some Random Designing
-
-
