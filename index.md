@@ -28,7 +28,7 @@ title: Decimate Drive | Press Kit
 
 ## Long description
 
-> *Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.*
+> Welcome to Red Mist Pines. An All-American mountain town caught in a crippling snowstorm. The power is failing, the town is plunged into darkness and vicious killer cars are moving in the shadows. Prepare for nerve-wracking chases where one wrong move could be your last. Dash across wide parking lots, maze-like suburbs and desolate mountain roads. Try to make it out alive or stay and fight back.
 
 > Decimate Drive 2 builds on the fast-paced gameplay of the original with bigger locations to explore, larger groups of enemies that work together, and more ways to defend yourself.
 
