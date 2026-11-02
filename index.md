@@ -14,7 +14,6 @@ title: Decimate Drive | Press Kit
 - Players: Single-player
 - Developer: Some Random Designing
 - Publisher: Some Random Designing (self-published)
-- Contact: {% include obfuscated-email.html %}
 
 ## Trailer
 
