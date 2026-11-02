@@ -66,6 +66,8 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 
 # Branding & Assets
 
+`Copy the images below or right-click to save`
+
 ## Logo
 
 Default logo (with & without shadow)
@@ -127,6 +129,8 @@ Commercial releases
 - Decimate Drive ([Steam](https://store.steampowered.com/app/2427950/Decimate_Drive/), 2024)
 - Babbling Brook ([Steam](https://store.steampowered.com/app/3672300/Babbling_Brook/), 2025)
 - Decimate Drive 2 ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/), Planned for 2027)
+
+---
 
 © Some Random Designing
 
