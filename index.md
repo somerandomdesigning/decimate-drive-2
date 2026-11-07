@@ -5,15 +5,17 @@ title: Decimate Drive | Press Kit
 
 # Decimate Drive 2 / Press Kit
 
+This is the press kit of the upcoming indie horror game Decimate Drive 2. Below you'll find information about the game, ([branding & assets](#branding-and-assets)) and information ([about the developer](about-srd)).
+
 ## Fact sheet
 
+- Title: Decimate Drive 2
 - Genre: Horror, Indie
 - Theme: Killer cars
 - Platform: PC ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/))
 - Release date: Q4 2027
 - Players: Single-player
-- Developer: Some Random Designing
-- Publisher: Some Random Designing (self-published)
+- Developer: Some Random Designing (self-published)
 
 ## Trailer
 
@@ -51,7 +53,7 @@ title: Decimate Drive | Press Kit
 
 [Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/) • [Itch.io](https://somerandomdesigning.itch.io/decimate-drive-2) • [YouTube Channel](https://www.youtube.com/@DecimateDriveGame)
 
-## About the franchise
+## About the series
 
 Decimate Drive is inspired by classic killer car horror movies such as Duel (1971) and Christine (1983). By pitting players against killer cars, the game delivers hectic unscripted action without ever compromising on its dark atmospheric horror setting.
 
@@ -63,6 +65,7 @@ Decimate Drive 2 is currently in early development, with a release planned for Q
 
 ![Roadmap of Decimate Drive 2]({{ '/assets/images/Roadmap.png' | relative_url }})
 
+<a id="branding-and-assets"></a>
 # Branding & Assets
 
 `Copy the images below or right-click to save`
@@ -92,6 +95,7 @@ Simplified logo (with & without shadow)
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Red Mist Pines.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Scoopy.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Sport.jpg' | relative_url }}) |
 | | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Screenshot - Storage.jpg' | relative_url }}) `File type: JPG / Resolution: 3840 x 2160` | |
 
+<a id="about-srd"></a>
 # About Some Random Designing
 
 Decimate Drive 2 is developed by Some Random Designing and self-published. Some Random Designing is a Dutch solo indie developer behind the frantic Decimate Drive and the relaxing Babbling Brook:
@@ -116,16 +120,16 @@ Social
 
 ## Games I created
 
-Free releases
-
-- Road to Glory ([Itch.io](https://somerandomdesigning.itch.io/road-to-glory), 2020)
-- Disposition ([Itch.io](https://somerandomdesigning.itch.io/disposition), 2022)
-
 Commercial releases
 
 - Decimate Drive ([Steam](https://store.steampowered.com/app/2427950/Decimate_Drive/), 2024)
 - Babbling Brook ([Steam](https://store.steampowered.com/app/3672300/Babbling_Brook/), 2025)
 - Decimate Drive 2 ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/), Planned for 2027)
+
+Free releases
+
+- Road to Glory ([Itch.io](https://somerandomdesigning.itch.io/road-to-glory), 2020)
+- Disposition ([Itch.io](https://somerandomdesigning.itch.io/disposition), 2022)
 
 ---
 
