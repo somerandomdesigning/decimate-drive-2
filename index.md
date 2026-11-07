@@ -5,7 +5,7 @@ title: Decimate Drive | Press Kit
 
 # Decimate Drive 2 / Press Kit
 
-This is the press kit of the upcoming indie horror game Decimate Drive 2. Below you'll find information about the game, ([branding & assets](#branding-and-assets)) and information ([about the developer](about-srd)).
+This is the press kit of the upcoming indie horror game Decimate Drive 2. Below you'll find things like the game description, [branding](#branding-and-assets) and my [contact details](about-srd).
 
 ## Fact sheet
 
