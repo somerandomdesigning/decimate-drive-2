@@ -122,14 +122,14 @@ Social
 
 Commercial releases
 
-- Decimate Drive ([Steam](https://store.steampowered.com/app/2427950/Decimate_Drive/), 2024)
-- Babbling Brook ([Steam](https://store.steampowered.com/app/3672300/Babbling_Brook/), 2025)
 - Decimate Drive 2 ([Steam](https://store.steampowered.com/app/5014810/Decimate_Drive_2/), Planned for 2027)
+- Babbling Brook ([Steam](https://store.steampowered.com/app/3672300/Babbling_Brook/), 2025)
+- Decimate Drive ([Steam](https://store.steampowered.com/app/2427950/Decimate_Drive/), 2024)
 
 Free releases
 
-- Road to Glory ([Itch.io](https://somerandomdesigning.itch.io/road-to-glory), 2020)
 - Disposition ([Itch.io](https://somerandomdesigning.itch.io/disposition), 2022)
+- Road to Glory ([Itch.io](https://somerandomdesigning.itch.io/road-to-glory), 2020)
 
 ---
 
