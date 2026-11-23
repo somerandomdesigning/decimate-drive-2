@@ -90,7 +90,6 @@ Simplified logo (with & without shadow)
 ## Screenshots
 
 |---|---|---|
-
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Sedan A.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Sedan B.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Sedan C.jpg' | relative_url }}) |
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/SUV B.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/SUV A.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Red Mist Pines High School.jpg' | relative_url }}) |
 | ![Screenshot of Decimate Drive 2]({{ '/assets/images/High School Parking Lot.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Mister Scoopy.jpg' | relative_url }}) | ![Screenshot of Decimate Drive 2]({{ '/assets/images/Muddy Streets.jpg' | relative_url }}) |
